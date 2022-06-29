@@ -5,7 +5,7 @@
 ### layout 
 
 <p align="center">
- <img src="github/tela.gif" height='70%' width='70%'>
+ <img src="github/tela.gif" height='90%' width='90%'>
 </p>
 
 ### Pré-requisitos
